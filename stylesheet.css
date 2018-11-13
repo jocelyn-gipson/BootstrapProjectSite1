@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+html,body{
+	margin:0;
+	padding: 0;
+}
+h1{
+	font-family: 'Neucha', cursive;
+	font-size: 90px;
+	color: #7F0000;
+}
+
+h2{
+	font-family: 'Neucha', cursive;
+	font-size: 40px;
+	color: #7F0000;
+}
+
+p{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+	letter-spacing: 1px;
+	color: #594541;
+
+}
